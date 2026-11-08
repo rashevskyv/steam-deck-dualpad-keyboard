@@ -1,0 +1,10 @@
+[plugin]
+id = "ua.deck.native-split-keyboard"
+name = "Steam Deck Split Keyboard"
+version = "0.1.0"
+author = "Community"
+description = "Compact split layout for the native Steam Deck desktop keyboard"
+
+[backend]
+entry = "backend/main.lua"
+sources = ["backend/**/*.lua"]
