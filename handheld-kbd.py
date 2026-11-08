@@ -2260,10 +2260,8 @@ def main():
     def _toggle():
         if state["shown"]:
             _hide()
-        elif getattr(w, "native_visible", False):
-            custom_keyboard()
         else:
-            summon_selected()
+            custom_keyboard()
 
     # XEmbed tray button; KDE's xembedsniproxy exposes it in the panel.
     tray = Gtk.StatusIcon.new_from_icon_name("input-keyboard")
