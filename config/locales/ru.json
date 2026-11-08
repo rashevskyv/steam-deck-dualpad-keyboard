@@ -1,0 +1,157 @@
+{
+  "KEY_0": {
+    "label": "0",
+    "shifted": ")"
+  },
+  "KEY_1": {
+    "label": "1",
+    "shifted": "!"
+  },
+  "KEY_2": {
+    "label": "2",
+    "shifted": "\""
+  },
+  "KEY_3": {
+    "label": "3",
+    "shifted": "№"
+  },
+  "KEY_4": {
+    "label": "4",
+    "shifted": ";"
+  },
+  "KEY_5": {
+    "label": "5",
+    "shifted": "%"
+  },
+  "KEY_6": {
+    "label": "6",
+    "shifted": ":"
+  },
+  "KEY_7": {
+    "label": "7",
+    "shifted": "?"
+  },
+  "KEY_8": {
+    "label": "8",
+    "shifted": "*"
+  },
+  "KEY_9": {
+    "label": "9",
+    "shifted": "("
+  },
+  "KEY_A": {
+    "label": "ф"
+  },
+  "KEY_APOSTROPHE": {
+    "label": "э"
+  },
+  "KEY_B": {
+    "label": "и"
+  },
+  "KEY_BACKSLASH": {
+    "label": "\\",
+    "shifted": "/"
+  },
+  "KEY_C": {
+    "label": "с"
+  },
+  "KEY_COMMA": {
+    "label": "б"
+  },
+  "KEY_D": {
+    "label": "в"
+  },
+  "KEY_DOT": {
+    "label": "ю"
+  },
+  "KEY_E": {
+    "label": "у"
+  },
+  "KEY_EQUAL": {
+    "label": "=",
+    "shifted": "+"
+  },
+  "KEY_F": {
+    "label": "а"
+  },
+  "KEY_G": {
+    "label": "п"
+  },
+  "KEY_GRAVE": {
+    "label": "ё"
+  },
+  "KEY_H": {
+    "label": "р"
+  },
+  "KEY_I": {
+    "label": "ш"
+  },
+  "KEY_J": {
+    "label": "о"
+  },
+  "KEY_K": {
+    "label": "л"
+  },
+  "KEY_L": {
+    "label": "д"
+  },
+  "KEY_LEFTBRACE": {
+    "label": "х"
+  },
+  "KEY_M": {
+    "label": "ь"
+  },
+  "KEY_MINUS": {
+    "label": "-",
+    "shifted": "_"
+  },
+  "KEY_N": {
+    "label": "т"
+  },
+  "KEY_O": {
+    "label": "щ"
+  },
+  "KEY_P": {
+    "label": "з"
+  },
+  "KEY_Q": {
+    "label": "й"
+  },
+  "KEY_R": {
+    "label": "к"
+  },
+  "KEY_RIGHTBRACE": {
+    "label": "ъ"
+  },
+  "KEY_S": {
+    "label": "ы"
+  },
+  "KEY_SEMICOLON": {
+    "label": "ж"
+  },
+  "KEY_SLASH": {
+    "label": ".",
+    "shifted": ","
+  },
+  "KEY_T": {
+    "label": "е"
+  },
+  "KEY_U": {
+    "label": "г"
+  },
+  "KEY_V": {
+    "label": "м"
+  },
+  "KEY_W": {
+    "label": "ц"
+  },
+  "KEY_X": {
+    "label": "ч"
+  },
+  "KEY_Y": {
+    "label": "н"
+  },
+  "KEY_Z": {
+    "label": "я"
+  }
+}

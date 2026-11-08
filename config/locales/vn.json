@@ -1,0 +1,160 @@
+{
+  "KEY_0": {
+    "label": "đ"
+  },
+  "KEY_1": {
+    "label": "ă"
+  },
+  "KEY_2": {
+    "label": "â"
+  },
+  "KEY_3": {
+    "label": "ê"
+  },
+  "KEY_4": {
+    "label": "ô"
+  },
+  "KEY_5": {
+    "alt": "`",
+    "label": "◌̀",
+    "shifted": "%"
+  },
+  "KEY_6": {
+    "label": "◌̉",
+    "shifted": "^"
+  },
+  "KEY_7": {
+    "alt": "˜",
+    "label": "◌̃",
+    "shifted": "&"
+  },
+  "KEY_8": {
+    "alt": "´",
+    "label": "◌́",
+    "shifted": "*"
+  },
+  "KEY_9": {
+    "label": "◌̣",
+    "shifted": "("
+  },
+  "KEY_A": {
+    "label": "a"
+  },
+  "KEY_APOSTROPHE": {
+    "label": "'",
+    "shifted": "\""
+  },
+  "KEY_B": {
+    "label": "b"
+  },
+  "KEY_BACKSLASH": {
+    "label": "\\",
+    "shifted": "|"
+  },
+  "KEY_C": {
+    "label": "c"
+  },
+  "KEY_COMMA": {
+    "label": ",",
+    "shifted": "<"
+  },
+  "KEY_D": {
+    "label": "d"
+  },
+  "KEY_DOT": {
+    "label": ".",
+    "shifted": ">"
+  },
+  "KEY_E": {
+    "label": "e"
+  },
+  "KEY_EQUAL": {
+    "label": "₫",
+    "shifted": "+"
+  },
+  "KEY_F": {
+    "label": "f"
+  },
+  "KEY_G": {
+    "label": "g"
+  },
+  "KEY_GRAVE": {
+    "label": "`",
+    "shifted": "~"
+  },
+  "KEY_H": {
+    "label": "h"
+  },
+  "KEY_I": {
+    "label": "i"
+  },
+  "KEY_J": {
+    "label": "j"
+  },
+  "KEY_K": {
+    "label": "k"
+  },
+  "KEY_L": {
+    "label": "l"
+  },
+  "KEY_LEFTBRACE": {
+    "label": "ư"
+  },
+  "KEY_M": {
+    "label": "m"
+  },
+  "KEY_MINUS": {
+    "label": "-",
+    "shifted": "_"
+  },
+  "KEY_N": {
+    "label": "n"
+  },
+  "KEY_O": {
+    "label": "o"
+  },
+  "KEY_P": {
+    "label": "p"
+  },
+  "KEY_Q": {
+    "label": "q"
+  },
+  "KEY_R": {
+    "label": "r"
+  },
+  "KEY_RIGHTBRACE": {
+    "label": "ơ"
+  },
+  "KEY_S": {
+    "label": "s"
+  },
+  "KEY_SEMICOLON": {
+    "label": ";",
+    "shifted": ":"
+  },
+  "KEY_SLASH": {
+    "label": "/",
+    "shifted": "?"
+  },
+  "KEY_T": {
+    "label": "t"
+  },
+  "KEY_U": {
+    "label": "u"
+  },
+  "KEY_V": {
+    "label": "v"
+  },
+  "KEY_W": {
+    "label": "w"
+  },
+  "KEY_X": {
+    "label": "x"
+  },
+  "KEY_Y": {
+    "label": "y"
+  },
+  "KEY_Z": {
+    "label": "z"
+  }
+}

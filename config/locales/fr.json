@@ -1,0 +1,210 @@
+{
+  "KEY_0": {
+    "alt": "@",
+    "label": "à",
+    "shifted": "0"
+  },
+  "KEY_1": {
+    "alt": "¹",
+    "label": "&",
+    "shifted": "1"
+  },
+  "KEY_2": {
+    "alt": "~",
+    "label": "é",
+    "shifted": "2"
+  },
+  "KEY_3": {
+    "alt": "#",
+    "label": "\"",
+    "shifted": "3"
+  },
+  "KEY_4": {
+    "alt": "{",
+    "label": "'",
+    "shifted": "4"
+  },
+  "KEY_5": {
+    "alt": "[",
+    "label": "(",
+    "shifted": "5"
+  },
+  "KEY_6": {
+    "alt": "|",
+    "label": "-",
+    "shifted": "6"
+  },
+  "KEY_7": {
+    "alt": "`",
+    "label": "è",
+    "shifted": "7"
+  },
+  "KEY_8": {
+    "alt": "\\",
+    "label": "_",
+    "shifted": "8"
+  },
+  "KEY_9": {
+    "alt": "^",
+    "label": "ç",
+    "shifted": "9"
+  },
+  "KEY_A": {
+    "alt": "@",
+    "label": "q"
+  },
+  "KEY_APOSTROPHE": {
+    "alt": "ˆ",
+    "label": "ù",
+    "shifted": "%"
+  },
+  "KEY_B": {
+    "alt": "“",
+    "label": "b"
+  },
+  "KEY_BACKSLASH": {
+    "alt": "`",
+    "label": "*",
+    "shifted": "µ"
+  },
+  "KEY_C": {
+    "alt": "¢",
+    "label": "c"
+  },
+  "KEY_COMMA": {
+    "alt": "•",
+    "label": ";",
+    "shifted": "."
+  },
+  "KEY_D": {
+    "alt": "ð",
+    "label": "d"
+  },
+  "KEY_DOT": {
+    "alt": "·",
+    "label": ":",
+    "shifted": "/"
+  },
+  "KEY_E": {
+    "alt": "€",
+    "label": "e"
+  },
+  "KEY_EQUAL": {
+    "alt": "}",
+    "label": "=",
+    "shifted": "+"
+  },
+  "KEY_F": {
+    "alt": "đ",
+    "label": "f"
+  },
+  "KEY_G": {
+    "alt": "ŋ",
+    "label": "g"
+  },
+  "KEY_GRAVE": {
+    "alt": "¬",
+    "label": "²",
+    "shifted": "~"
+  },
+  "KEY_H": {
+    "alt": "ħ",
+    "label": "h"
+  },
+  "KEY_I": {
+    "alt": "→",
+    "label": "i"
+  },
+  "KEY_J": {
+    "alt": "◌̉",
+    "label": "j"
+  },
+  "KEY_K": {
+    "alt": "ĸ",
+    "label": "k"
+  },
+  "KEY_L": {
+    "alt": "ł",
+    "label": "l"
+  },
+  "KEY_LEFTBRACE": {
+    "label": "ˆ",
+    "shifted": "¨"
+  },
+  "KEY_M": {
+    "alt": "´",
+    "label": ",",
+    "shifted": "?"
+  },
+  "KEY_MINUS": {
+    "alt": "]",
+    "label": ")",
+    "shifted": "°"
+  },
+  "KEY_N": {
+    "alt": "”",
+    "label": "n"
+  },
+  "KEY_O": {
+    "alt": "ø",
+    "label": "o"
+  },
+  "KEY_P": {
+    "alt": "þ",
+    "label": "p"
+  },
+  "KEY_Q": {
+    "alt": "æ",
+    "label": "a"
+  },
+  "KEY_R": {
+    "alt": "¶",
+    "label": "r"
+  },
+  "KEY_RIGHTBRACE": {
+    "alt": "¤",
+    "label": "$",
+    "shifted": "£"
+  },
+  "KEY_S": {
+    "alt": "ß",
+    "label": "s"
+  },
+  "KEY_SEMICOLON": {
+    "alt": "µ",
+    "label": "m"
+  },
+  "KEY_SLASH": {
+    "alt": "◌̣",
+    "label": "!",
+    "shifted": "§"
+  },
+  "KEY_T": {
+    "alt": "ŧ",
+    "label": "t"
+  },
+  "KEY_U": {
+    "alt": "↓",
+    "label": "u"
+  },
+  "KEY_V": {
+    "alt": "„",
+    "label": "v"
+  },
+  "KEY_W": {
+    "alt": "«",
+    "label": "z"
+  },
+  "KEY_X": {
+    "alt": "»",
+    "label": "x"
+  },
+  "KEY_Y": {
+    "alt": "←",
+    "label": "y"
+  },
+  "KEY_Z": {
+    "alt": "ł",
+    "label": "w"
+  }
+}
