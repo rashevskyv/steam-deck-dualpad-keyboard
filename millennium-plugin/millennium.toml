@@ -8,3 +8,9 @@ description = "Compact split layout for the native Steam Deck desktop keyboard"
 [backend]
 entry = "backend/main.lua"
 sources = ["backend/**/*.lua"]
+
+[compiler]
+output_path = "auto"
+
+[dev]
+reload_steamui_when = "both"

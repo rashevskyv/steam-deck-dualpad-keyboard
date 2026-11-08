@@ -11,10 +11,11 @@
       const doc = component.m_keyboardDiv?.ownerDocument || document;
       doc.documentElement.dataset.deckNativeSplit = this.split ? '1' : '0';
     },
-    transform: function (rows, standalone) {
-      if (!standalone) return rows;
-      console.log("[deck-native] standalone layout", this.split);
-      document.documentElement.dataset.deckNativeSplit = this.split ? '1' : '0';
+    transform: function (rows, component) {
+      if (!component.props.windowInstance.IsStandaloneKeyboardWindow()) return rows;
+      const doc = component.m_keyboardDiv?.ownerDocument || component.props.windowInstance.BrowserWindow?.document || document;
+      this.installStyle(doc);
+      doc.documentElement.dataset.deckNativeSplit = this.split ? '1' : '0';
       if (!Array.isArray(rows) || rows.length < 4) return rows;
       const out = rows.map(r => Array.isArray(r) ? r.slice() : r);
       const last = out[out.length - 1];
@@ -60,6 +61,7 @@
     '[data-deck-native-split="1"] [role="grid"][class*="Layout_"] [data-key="VKDeckMode"]{left:40%!important}',
     '[data-deck-native-split="1"] [role="grid"][class*="Layout_"] [data-key="SwitchKeys_Layout"]{left:50%!important}',
     '[data-deck-native-split="1"] [role="grid"][class*="Layout_"] [data-key=" "]{position:absolute!important;z-index:4;bottom:0!important;left:20%!important;width:60%!important;min-width:0!important}',
+    '[data-deck-native-split="1"] [role="grid"][class*="Layout_"] [data-key="VKClose"], [data-deck-native-split="1"] [role="grid"][class*="Layout_"] [data-key="VKDone"]{position:absolute!important;z-index:5;bottom:0!important;right:0!important;width:6.25%!important;min-width:0!important}',
     ...['ArrowLeft','ArrowUp','ArrowDown','ArrowRight'].map((key,i) => '[data-deck-native-split="1"] [role="grid"][class*="Layout_"] [data-key="'+key+'"]{position:absolute!important;z-index:4;bottom:34px!important;left:'+(40+i*5)+'%!important;width:5%!important;min-width:0!important}'),
     '[data-deck-native-split="0"] [role="grid"][class*="Layout_"] [data-key="VKDeckMode"]{position:absolute!important;z-index:4;top:0!important;left:45%!important;width:10%!important}'
   ];
